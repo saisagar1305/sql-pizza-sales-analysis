@@ -142,8 +142,4 @@ Before any analysis, the raw data was cleaned and standardized:
    - Load and clean the data
    - Execute all analytical queries
 
----
 
-## Author
-
-Developed as a self-driven SQL analytics project to practice real-world data cleaning, KPI reporting, trend analysis, and advanced SQL using a pizza restaurant dataset.

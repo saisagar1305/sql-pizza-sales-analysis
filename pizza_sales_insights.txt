@@ -1,0 +1,31 @@
+Data Hardening (Cleaning & Transformation)
+
+1. Fix the Date Format
+2. Fix the Time Format
+
+Phase 1: High-Level Sales KPIs
+
+Q1: Total Revenue
+Q2: Average Order Value
+Q3: Total Pizzas Sold
+Q4: Total Order
+Q5: Average Pizzas Per Order
+
+Phase 2: Time-Series Analysis (Hour, Day & Month Insights)
+
+Q6: Hourly Sales Trend
+Q7: Weekly Sales Trend
+Q8: Monthly Revenue
+Q9: Weekend vs Weekday
+Phase 3: Product & Menu Engineering (Category Insights)
+
+Q10: Revenue by Category (act value & % of total)
+Q11: Revenue by Pizza Size (act value & % of total)
+
+Phase 4: Advanced Analysis (Subqueries & CTEs)
+
+Q12: Top 5 Best Sellers by Revenue & Quantity
+Q13: Bottom 5 Worst Sellers by Revenue & Quantity
+Q14: Do people order larger pizzas on the weekends?
+Q15: What is the best-selling category during our Peak Hours?
+Q16: Category Leaders (CTE & Window Functions)
